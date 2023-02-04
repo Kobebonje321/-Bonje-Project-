@@ -1,7 +1,7 @@
 # BONJE PROJECT
 
 
-## Authors
+## Author
 - [@Kobebonje321](https://github.com/Kobebonje321)
 
 ## Sample Code
