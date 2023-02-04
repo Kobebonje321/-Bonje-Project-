@@ -6,5 +6,7 @@
 
 ## Sample Code
 print("Hello, World!")
+## Installation
 
+Instructions on how to install and use the project.
 
