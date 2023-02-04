@@ -7,7 +7,7 @@
 ## Sample Code
 print("Hello, World!")
 ## Installation
-- Step 1: Download the zip file or clone the repository using `git clone`
+- Step 1: Download the zip file or git clone
 
 
 
