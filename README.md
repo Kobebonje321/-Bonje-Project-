@@ -1,3 +1,10 @@
-#BONJE PROJECT
-[@Kobebonje321](https://github.com/Kobebonje321)
-print("Hello, World!");
+# BONJE PROJECT
+
+
+## Authors
+- [@Kobebonje321](https://github.com/Kobebonje321)
+
+## Sample Code
+print("Hello, World!")
+
+
