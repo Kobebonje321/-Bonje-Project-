@@ -8,5 +8,6 @@
 print("Hello, World!")
 ## Installation
 
-(-)Instructions on how to install and use the project.
+Instructions on how to install and use the project.
+  (`-`)STEP1:Downlaod the zip file or gitclone
 
