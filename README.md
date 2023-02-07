@@ -8,7 +8,7 @@
 print("Hello, World!")
 ## Installation
 - Step 1: Download the zip file or git clone
-- Step 2:
-- Step 3:
+- Step 2: Commit 1
+- Step 3: Commit 2
 
 
